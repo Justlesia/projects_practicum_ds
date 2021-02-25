@@ -4,4 +4,4 @@
 | --- | --- | --- |
 | Описание |   | Необходимо проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали. |
 | Вывод |   |  Написан парсер для сбора с сайта данных о 11 крупнейших фестивалях. Сформированы и проанализированны запросы на SQL. |
-| Ключевые слова |   | <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>, <img src="https://img.icons8.com/color/48/000000/python.png"/>pandas, numpy, matplotlib, seaborn, plotly, scipy, requests, bs4, re, извлечение данных, статистический анализ, проверка гипотез |
+| Ключевые слова |   | <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>, <img src="https://img.icons8.com/color/48/000000/python.png"/>, pandas, numpy, matplotlib, seaborn, plotly, scipy, requests, bs4, re, извлечение данных, статистический анализ, проверка гипотез |
