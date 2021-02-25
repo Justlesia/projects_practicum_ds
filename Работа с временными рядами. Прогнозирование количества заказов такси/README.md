@@ -4,4 +4,4 @@
 | --- | --- | --- |
 | Описание |   | На основе исторических данных данных о заказах такси, нужно построить модель для прогнозирования количества заказов такси на следующий час.|
 | Вывод |   | Сгенерировала временные признаки, подобрала lags и rolling_mean. Валидацию проводила на KFold (shuffle=False), а тестирование на последнем отрезке времени. Модель построена с помощью "LassoCV". |
-| Ключевые слова |   | python, pandas, numpy, random, statsmodels, seaborn, matplotlib, plotly, sklearn, lightgbm, catboost, lazypredict, временные ряды, регрессионная модель, RMSE, исследовательский анализ, генерация признаков, LassoCV|
+| Ключевые слова |   | pandas, numpy, random, statsmodels, seaborn, matplotlib, plotly, sklearn, lightgbm, catboost, lazypredict, временные ряды, регрессионная модель, RMSE, исследовательский анализ, генерация признаков, LassoCV|
