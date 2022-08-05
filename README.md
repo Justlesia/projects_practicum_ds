@@ -2,7 +2,10 @@
 ## Портфолио
 
 
-Диплом о профессиональной переподготовке ["Специалист по Data Science"](https://disk.yandex.ru/i/BUQOW8bhcGXpkA)
+Диплом о профессиональной переподготовке ["Specialist in Data Science"](https://drive.google.com/file/d/1f0ePYTtocqe-K0eU2YlZgCb1UvNMssfN/view?usp=sharing)
+
+Диплом о профессиональной переподготовке ["Data Analyst"](https://drive.google.com/file/d/14oOcMnctts1D4Hi4rFac_az55hsb1AVg/view?usp=sharing)
+
 
 Список проектов:
 | Название | Описание | Инструменты |
